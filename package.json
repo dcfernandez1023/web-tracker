@@ -1,11 +1,11 @@
-{
-  "name": "buildyourpack",
+  {
+  "name": "web-tracker",
   "version": "4.0.1",
-  "description": "A chrome extension to build your virtual backpacking pack",
+  "description": "A chrome extension to track the time you spend on websitess",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dcfernandez1023/buildyourpack-chrome.git"
+    "url": "https://github.com/dcfernandez1023/web-tracker.git"
   },
   "scripts": {
     "build": "node utils/build.js",
